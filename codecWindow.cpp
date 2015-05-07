@@ -34,7 +34,7 @@ codecWindow::~codecWindow() {
 }
 
 void codecWindow::on_btnTest_clicked() {
-//    ui->tbl_codecs->row
+
 
 
 
